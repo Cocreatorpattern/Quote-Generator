@@ -1,4 +1,9 @@
 body {
-  background: purple;
-  text-align: center;
+  background-color: #f9f7fe;
+  font-family: Helvetica, Arial, Helvetica, sans-serif;
+}
+
+.container {
+  margin: 120px auto;
+  max-width: 600px;
 }
