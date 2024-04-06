@@ -1,5 +1,5 @@
 body {
-  background-image: url("butter.png");
+  background-image: url("bloom.png");
   font-size: 25px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -48,7 +48,7 @@ form {
 
 .submit-button {
   margin-left: 10px;
-  background: rgb(185, 26, 26);
+  background: peru;
   color: white;
   border: none;
   width: 150px;
